@@ -1,6 +1,6 @@
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-brightgreen?style=flat-square)](https://www.researchgate.net/profile/Khalil-Teber)
 [![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue?style=flat-square)](https://www.linkedin.com/in/khalil-teber)
-[![Twitter Badge](https://img.shields.io/twitter/follow/dmlmont?style=social)](https://twitter.com/khalilteber)
+[![Twitter Badge](https://img.shields.io/twitter/follow/kte?style=social)](https://twitter.com/khalilteber)
 
 
 ### Hi there 👋
