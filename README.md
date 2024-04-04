@@ -11,4 +11,4 @@ My name is Khalil, I am a PhD student at the university of Leipzig in Germany at
 - 🌱 I’m always learning many things at the same time, but currently I try to focus more on Machine Learning and Causal Inference.
 
 If you are also working on this topic and think we could collaborate, don't hesiatet to get in touch !
-![](https://github-readme-stats.vercel.app/api?username=MartinuzziFrancesco&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api?username=khalilT&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=gruvbox)
